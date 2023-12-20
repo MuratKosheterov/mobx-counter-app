@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/mobx-counter-app/static/css/main.ca70f6c7.css",
+    "main.js": "/MuratKosheterov/mobx-counter-app/static/js/main.29d09f1c.js",
+    "index.html": "/MuratKosheterov/mobx-counter-app/index.html",
+    "main.ca70f6c7.css.map": "/MuratKosheterov/mobx-counter-app/static/css/main.ca70f6c7.css.map",
+    "main.29d09f1c.js.map": "/MuratKosheterov/mobx-counter-app/static/js/main.29d09f1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca70f6c7.css",
+    "static/js/main.29d09f1c.js"
+  ]
+}
